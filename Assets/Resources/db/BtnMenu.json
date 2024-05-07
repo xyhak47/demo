@@ -1,0 +1,123 @@
+{
+  "RECORDS": [
+    {
+      "ID": "1",
+      "BtnType": "menu_1",
+      "BtnString": "例行巡视",
+      "BtnData": "scene,scene1",
+      "BtnRes": "UI/Prefabs/Unit1|UI/Pics/xd-csjm-lxxs"
+    },
+    {
+      "ID": "2",
+      "BtnType": "menu_1",
+      "BtnString": "倒闸操作",
+      "BtnData": "scene,scene2",
+      "BtnRes": "UI/Prefabs/Unit1|UI/Pics/xd-csjm-dzcz"
+    },
+    {
+      "ID": "3",
+      "BtnType": "menu_2",
+      "BtnString": "学习模式",
+      "BtnData": "mode,child1",
+      "BtnRes": "UI/Prefabs/Unit1|UI/Pics/xd-csjm-xxms"
+    },
+    {
+      "ID": "4",
+      "BtnType": "menu_2",
+      "BtnString": "实践模式",
+      "BtnData": "mode,child2",
+      "BtnRes": "UI/Prefabs/Unit1|UI/Pics/xd-csjm-sjms"
+    },
+    {
+      "ID": "5",
+      "BtnType": "menu_2",
+      "BtnString": "考核模式",
+      "BtnData": "mode,child3",
+      "BtnRes": "UI/Prefabs/Unit1|UI/Pics/xd-csjm-khms"
+    },
+    {
+      "ID": "6",
+      "BtnType": "menu_3",
+      "BtnString": "外观结构",
+      "BtnData": "modelintro,sub1",
+      "BtnRes": "UI/Pics/xd-xs-wgjg0|UI/Pics/xd-xs-wgjg1"
+    },
+    {
+      "ID": "7",
+      "BtnType": "menu_3",
+      "BtnString": "内部结构",
+      "BtnData": "modelintro,sub2",
+      "BtnRes": "UI/Pics/xd-xs-nbjg0|UI/Pics/xd-xs-nbjg1"
+    },
+    {
+      "ID": "8",
+      "BtnType": "menu_3",
+      "BtnString": "工作原理",
+      "BtnData": "modelintro,sub3",
+      "BtnRes": "UI/Pics/xd-xs-gzyl0|UI/Pics/xd-xs-gzyl1"
+    },
+    {
+      "ID": "9",
+      "BtnType": "menu_3",
+      "BtnString": "安装拆卸",
+      "BtnData": "modelintro,sub4",
+      "BtnRes": "UI/Pics/xd-xs-azcx0|UI/Pics/xd-xs-azcx1"
+    },
+    {
+      "ID": "10",
+      "BtnType": "menu_3",
+      "BtnString": "故障检修",
+      "BtnData": "modelintro,sub5",
+      "BtnRes": "UI/Pics/xd-xs-gzjx0|UI/Pics/xd-xs-gzjx1"
+    },
+    {
+      "ID": "11",
+      "BtnType": "menu_3",
+      "BtnString": "典型故障",
+      "BtnData": "modelintro,sub6",
+      "BtnRes": "UI/Pics/xd-xs-dxgz0|UI/Pics/xd-xs-dxgz1"
+    },
+    {
+      "ID": "12",
+      "BtnType": "menu_4",
+      "BtnString": "巡视主变",
+      "BtnData": "modelselect,model1",
+      "BtnRes": "UI/Prefabs/Unit4|UI/Pics/xd-csjm-xszb"
+    },
+    {
+      "ID": "13",
+      "BtnType": "menu_4",
+      "BtnString": "巡视隔离开关",
+      "BtnData": "modelselect,model2",
+      "BtnRes": "UI/Prefabs/Unit4|UI/Pics/xd-csjm-xsglkg"
+    },
+    {
+      "ID": "14",
+      "BtnType": "menu_4",
+      "BtnString": "巡视断路器",
+      "BtnData": "modelselect,model3",
+      "BtnRes": "UI/Prefabs/Unit4|UI/Pics/xd-csjm-xsdlq"
+    },
+    {
+      "ID": "15",
+      "BtnType": "menu_4",
+      "BtnString": "巡视电流互感器",
+      "BtnData": "modelselect,model4",
+      "BtnRes": "UI/Prefabs/Unit4|UI/Pics/xd-csjm-xsdlhgq"
+    },
+    {
+      "ID": "16",
+      "BtnType": "menu_4",
+      "BtnString": "巡视电压互感器",
+      "BtnData": "modelselect,model5",
+      "BtnRes": "UI/Prefabs/Unit4|UI/Pics/xd-csjm-xsdyhgq"
+    },
+    {
+      "ID": "17",
+      "BtnType": "menu_4",
+      "BtnString": "巡视避雷器",
+      "BtnData": "modelselect,model6",
+      "BtnRes": "UI/Prefabs/Unit4|UI/Pics/xd-csjm-xsblq"
+    }
+  ]
+}

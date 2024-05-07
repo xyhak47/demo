@@ -1,0 +1,3074 @@
+{
+  "RECORDS": [
+    {
+      "ID": "1",
+      "Index": "0",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_suo_01|(0.5724611,27.67572,111.472)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "2",
+      "Index": "1",
+      "Area": "3",
+      "Practice": "0",
+      "Operate": "ui:sub_1|UI/Prefabs/Unit2|UI/Pics/xd-dz-dzcz",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "3",
+      "Index": "2",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(2.04,28.83,80.97)|portal|1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "4",
+      "Index": "3",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "active:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys/xd-kzs-fwdnys-ys|(1.003975,30.24379,-173.3555)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "5",
+      "Index": "4",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "commui:UI/Pics/xd-dz-ddzl|UI/Pics/xd-button-ljwb0|UI/Pics/xd-button-ljwb1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "6",
+      "Index": "5",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "audio:loop",
+      "TextData": "null",
+      "SoundRes": "Audio/dz/dianhua",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "7",
+      "Index": "6",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-dhj01",
+      "TextData": "null",
+      "SoundRes": "Audio/dz/ringup",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "8",
+      "Index": "7",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "photo:UI/Pics/xd-dz-dh",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "9",
+      "Index": "8",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-zbz",
+      "TextData": "您好，我是110kV高陂变值班长赵工",
+      "SoundRes": "Audio/dz/1",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "10",
+      "Index": "9",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-jlxx0|UI/Pics/xd-button-jlxx1",
+      "TextData": "x年x月x日x时x分，下达一项操作任务：110kV高陂变110kV峰高I路105线路由运行转检修，请立即执行！",
+      "SoundRes": "Audio/dz/2",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "11",
+      "Index": "10",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-zbz",
+      "TextData": "好的，复诵一遍，x年x月x日x时x分，下令人：张工，受令人：赵工，操作任务：110kV高陂变110kV峰高I路105线路由运行转检修，立即执行。",
+      "SoundRes": "Audio/dz/3",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "12",
+      "Index": "11",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "tip:1|1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "13",
+      "Index": "12",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "ui:sub_2|UI/Prefabs/Unit2|UI/Pics/xd-dz-dzcz|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "14",
+      "Index": "13",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "commui:UI/Pics/xd-dz-czrw|UI/Pics/xd-button-qr0|UI/Pics/xd-button-qr1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "15",
+      "Index": "14",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "photo:UI/Pics/xd-dz-jhr",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "16",
+      "Index": "15",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-fsnr0|UI/Pics/xd-button-fsnr1",
+      "TextData": "操作任务是：110kV高陂变110kV峰高I路105线路由运行转检修，下面由你进行操作票的填写",
+      "SoundRes": "Audio/dz/4",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "17",
+      "Index": "16",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "操作任务是110kV高陂变110kV峰高I路105线路由运行转检修",
+      "SoundRes": "Audio/dz/5",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "18",
+      "Index": "17",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "tip:2|13",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "19",
+      "Index": "18",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "photo:UI/Pics/xd-dz-jhr",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "20",
+      "Index": "19",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-txczp0|UI/Pics/xd-button-txczp1",
+      "TextData": "正确，请填写操作票",
+      "SoundRes": "Audio/dz/6",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "21",
+      "Index": "20",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "明白",
+      "SoundRes": "Audio/dz/7",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "22",
+      "Index": "21",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-0.2,30.221,-173.82)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "23",
+      "Index": "22",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-wfj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "24",
+      "Index": "23",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "ui:sub_3|UI/Prefabs/Unit2|UI/Pics/xd-dz-czp",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "25",
+      "Index": "24",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "tip:3|19",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "26",
+      "Index": "25",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "photo:UI/Pics/xd-dz-jhr",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "27",
+      "Index": "26",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-jrgjs0|UI/Pics/xd-button-jrgjs1",
+      "TextData": "经检查，倒闸操作票无误，下一步进行操作前的准备工作",
+      "SoundRes": "Audio/dz/8",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "28",
+      "Index": "27",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(4.93,30.221,-155.59)|portal|2|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "29",
+      "Index": "28",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "active:Models/GJS/wireman|(61.65929,27.96443,-90.10535)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "30",
+      "Index": "29",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "ui:sub_4|UI/Prefabs/Unit2|UI/Pics/xd-dz-czzb",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "31",
+      "Index": "30",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1",
+      "TextData": "检查操作人着装符合要求，精神状态良好",
+      "SoundRes": "Audio/dz/9",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "32",
+      "Index": "31",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "commui:UI/Pics/xd-dz-zbgz|UI/Pics/xd-button-qr0|UI/Pics/xd-button-qr1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "33",
+      "Index": "32",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "检查监护人着装符合要求，精神状态良好",
+      "SoundRes": "Audio/dz/10",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "34",
+      "Index": "33",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1",
+      "TextData": "现在交代风险点及预控措施：操作前应核对设备双重名称编号，高压验电时应带绝缘手套，合接地刀闸、装设接地线前应验明设备确已无电压，是否明确有无补充？",
+      "SoundRes": "Audio/dz/11",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "35",
+      "Index": "34",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "明白，没有补充。",
+      "SoundRes": "Audio/dz/12",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "36",
+      "Index": "35",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "现在开始检查安全防护用品及工器具检查,请检查安全帽",
+      "SoundRes": "Audio/dz/13",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "37",
+      "Index": "36",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_01/xd-gjsm_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "38",
+      "Index": "37",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_01/xd-gjsm_01|gjskm01|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "39",
+      "Index": "38",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_01/xd-gjs-aqm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "40",
+      "Index": "39",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "toolintro:UI/Pics/xd-dz-aqm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "41",
+      "Index": "40",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "经检查安全帽完好，合格证在有效期内。外观良好，无裂纹、碰伤、磨损，顶衬完好",
+      "SoundRes": "Audio/dz/14",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "42",
+      "Index": "41",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_01/xd-gjsm_01|gjsgm01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "43",
+      "Index": "42",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查绝缘手套",
+      "SoundRes": "Audio/dz/15",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "44",
+      "Index": "43",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_03/xd-gjsm_03",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "45",
+      "Index": "44",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_03/xd-gjsm_03|gjskm03|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "46",
+      "Index": "45",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_03/xd-gjs-jyst",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "47",
+      "Index": "46",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "toolintro:UI/Pics/xd-dz-jyst",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "48",
+      "Index": "47",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "绝缘手套编号1号，经检查绝缘手套完好，无破损漏气，无脏污受潮，试验日期在有效期内",
+      "SoundRes": "Audio/dz/16",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "49",
+      "Index": "48",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查绝缘靴",
+      "SoundRes": "Audio/dz/17",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "50",
+      "Index": "49",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_03/xd-gjs-jyx",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "51",
+      "Index": "50",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "toolintro:UI/Pics/xd-dz-jyx",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "52",
+      "Index": "51",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "绝缘靴编号1号，经检查绝缘靴完好，无破损漏气，无脏污受潮，试验日期在有效期内",
+      "SoundRes": "Audio/dz/18",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "53",
+      "Index": "52",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "active:Models/GJS/wireman|(61.65929,27.96443,-90.10535)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "54",
+      "Index": "53",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查验电器",
+      "SoundRes": "Audio/dz/19",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "55",
+      "Index": "54",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_03/xd-gjs-ydq",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "56",
+      "Index": "55",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "toolintro:UI/Pics/xd-dz-ydq",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "57",
+      "Index": "56",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "验电器编号1号，经检查验电器完好，声光正常，无脏污受潮，拉伸正常，电压等级110kV，试验日期在有效期内",
+      "SoundRes": "Audio/dz/20",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "58",
+      "Index": "57",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_03/xd-gjsm_03|gjsgm03",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "59",
+      "Index": "58",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查绝缘杆",
+      "SoundRes": "Audio/dz/21",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "60",
+      "Index": "59",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_01/xd-gjsm_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "61",
+      "Index": "60",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_01/xd-gjsm_01|gjskm01|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "62",
+      "Index": "61",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_01/xd-gjs-jyg",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "63",
+      "Index": "62",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "toolintro:UI/Pics/xd-dz-jyg",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "64",
+      "Index": "63",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "绝缘杆编号1号，无脏污受潮，无破损松动，接头良好，电压等级110kV，试验日期在有效期内。",
+      "SoundRes": "Audio/dz/22",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "65",
+      "Index": "64",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查接地线",
+      "SoundRes": "Audio/dz/23",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "66",
+      "Index": "65",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_01/xd-gjs-jdx",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "67",
+      "Index": "66",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "toolintro:UI/Pics/xd-dz-jdx",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "68",
+      "Index": "67",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "接地线编号1号，经检查接地线各部螺丝完好，接头可靠，导线无散股、断股、裸漏，外观检查完好，电压等级110kV，试验日期在有效期内。",
+      "SoundRes": "Audio/dz/24",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "69",
+      "Index": "68",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_01/xd-gjsm_01|gjsgm01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "70",
+      "Index": "69",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查标识牌",
+      "SoundRes": "Audio/dz/25",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "71",
+      "Index": "70",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_02/xd-gjsm_02",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "72",
+      "Index": "71",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_02/xd-gjsm_02|gjskm02|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "73",
+      "Index": "72",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_02/xd-gjs-bsp",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "74",
+      "Index": "73",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "toolintro:UI/Pics/xd-dz-bsp",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "75",
+      "Index": "74",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "标识牌内容清晰，无脏污，正常可用",
+      "SoundRes": "Audio/dz/26",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "76",
+      "Index": "75",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查录音笔",
+      "SoundRes": "Audio/dz/27",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "77",
+      "Index": "76",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "click:Models/GJS/GJS_Group/xd-gjs_02/xd-gjs-lyb",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "78",
+      "Index": "77",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr|next",
+      "TextData": "录音笔电量充足，已开启录音",
+      "SoundRes": "Audio/dz/28",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "79",
+      "Index": "78",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "anim:Models/GJS/GJS_Group/xd-gjs_02/xd-gjsm_02|gjsgm02",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "80",
+      "Index": "79",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-jcwb0|UI/Pics/xd-button-jcwb1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "81",
+      "Index": "80",
+      "Area": "2",
+      "Practice": "0",
+      "Operate": "tip:4|26",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "82",
+      "Index": "81",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "photo:UI/Pics/xd-dz-jhr",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "83",
+      "Index": "82",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-qwkzs0|UI/Pics/xd-button-qwkzs1",
+      "TextData": "请前往控制室",
+      "SoundRes": "Audio/dz/29",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "84",
+      "Index": "83",
+      "Area": "2",
+      "Practice": "1",
+      "Operate": "move:(56.44,29.2,-91.41)|portal|1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "85",
+      "Index": "84",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "active:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys/xd-kzs-fwdnys-ys|(1.003975,30.24379,-173.3555)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "86",
+      "Index": "85",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "请检查防误电脑钥匙",
+      "SoundRes": "Audio/dz/30",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "87",
+      "Index": "86",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-0.2,30.221,-173.82)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "88",
+      "Index": "87",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys/xd-kzs-fwdnys-ys",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "89",
+      "Index": "88",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "检查防误电脑钥匙外观完好、通信正常、电量充足",
+      "SoundRes": "Audio/dz/31",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "90",
+      "Index": "89",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "active:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys/xd-kzs-fwdnys-ys|(1.003975,30.24379,-173.3555)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "91",
+      "Index": "90",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，请检查五防主机",
+      "SoundRes": "Audio/dz/32",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "92",
+      "Index": "91",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-0.2,30.221,-173.82)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "93",
+      "Index": "92",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-wfj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "94",
+      "Index": "93",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "检查五防主机工作正常，高陂变110kV峰高I路105在运行状态，设备名称、编号和位置正确",
+      "SoundRes": "Audio/dz/33",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "95",
+      "Index": "94",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "现在是x年x月x日x时x分，开始进行模拟预演",
+      "SoundRes": "Audio/dz/34",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "96",
+      "Index": "95",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-wfj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "97",
+      "Index": "96",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "ui:sub_5|UI/Prefabs/Unit2|UI/Pics/xd-dz-mnyy|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "98",
+      "Index": "97",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "tip:5|82",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "99",
+      "Index": "98",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "photo:UI/Pics/xd-dz-jhr",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "100",
+      "Index": "99",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1",
+      "TextData": "模拟阶段完毕，下一步进行倒闸操作阶段",
+      "SoundRes": "Audio/dz/35",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "101",
+      "Index": "100",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1",
+      "TextData": "现在是x年x月x日x时x分，开始正式操作“110kV 峰高I路105线路由运行转检修”",
+      "SoundRes": "Audio/dz/36",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "102",
+      "Index": "101",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "操作任务：110kV 峰高I路105线路由运行转检修，请确认操作地点并进行三核对",
+      "SoundRes": "Audio/dz/37",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "103",
+      "Index": "102",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-htj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "104",
+      "Index": "103",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是后台机处，峰高I路105开关运行状态",
+      "SoundRes": "Audio/dz/38",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "105",
+      "Index": "104",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "呼叫现场人员远离！",
+      "SoundRes": "Audio/dz/133",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "106",
+      "Index": "105",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-chj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "107",
+      "Index": "106",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "告知现场人员！准备操作峰高I路105开关，请远离！",
+      "SoundRes": "Audio/dz/39",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "108",
+      "Index": "107",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "操作任务：110kV 峰高I路105线路由运行转检修，请确认操作地点并进行三核对",
+      "SoundRes": "Audio/dz/40",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "109",
+      "Index": "108",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-htj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "110",
+      "Index": "109",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "popup:init|houtaiji|UI/Pics/houtaiji0|UI/Pics/houtaiji1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "111",
+      "Index": "110",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1",
+      "TextData": "第一项：断开峰高I路105开关",
+      "SoundRes": "Audio/dz/41",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "112",
+      "Index": "111",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第一项：断开峰高I路105开关",
+      "SoundRes": "Audio/dz/42",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "113",
+      "Index": "112",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/43",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "114",
+      "Index": "113",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "popup:click|kg|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "115",
+      "Index": "114",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/44",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "116",
+      "Index": "115",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1",
+      "TextData": "第二项：检查后台峰高I路105开关状态由“合”到“分”，电流指示为零",
+      "SoundRes": "Audio/dz/45",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "117",
+      "Index": "116",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第二项：检查后台峰高I路105开关状态由“合”到“分”，电流指示为零",
+      "SoundRes": "Audio/dz/46",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "118",
+      "Index": "117",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/47",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "119",
+      "Index": "118",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "popup:click|dl|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "120",
+      "Index": "119",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/48",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "121",
+      "Index": "120",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "popup:close|houtaiji|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "122",
+      "Index": "121",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-qwkg0|UI/Pics/xd-button-qwkg1",
+      "TextData": "去峰高I路105开关本体处",
+      "SoundRes": "Audio/dz/49",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "123",
+      "Index": "122",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-4.714,30.221,-176.679)|portal|3",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "124",
+      "Index": "123",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点",
+      "SoundRes": "Audio/dz/50",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "125",
+      "Index": "124",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(3.095,28.65,103.836)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "126",
+      "Index": "125",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105kg/xd-105xl-105kg-jgx",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "127",
+      "Index": "126",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路105开关处",
+      "SoundRes": "Audio/dz/51",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "128",
+      "Index": "127",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。第三项：检查现场峰高I路105开关机械指示确在“分闸”位置",
+      "SoundRes": "Audio/dz/52",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "129",
+      "Index": "128",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105kg/xd-105xl-105kg-kgjxzs",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "130",
+      "Index": "129",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第三项：检查现场峰高I路105开关机械指示确在“分闸”位置",
+      "SoundRes": "Audio/dz/53",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "131",
+      "Index": "130",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。去峰高I路105测控屏处",
+      "SoundRes": "Audio/dz/54",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "132",
+      "Index": "131",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(2.04,28.83,80.97)|portal|1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "133",
+      "Index": "132",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点并进行三核正确",
+      "SoundRes": "Audio/dz/55",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "134",
+      "Index": "133",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-4.283,30.221,-169.161)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "135",
+      "Index": "134",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-ckp/xd-kzs-ckpm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "136",
+      "Index": "135",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "anim:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-ckp/xd-kzs-ckpm|openckp|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "137",
+      "Index": "136",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路105间隔测控屏",
+      "SoundRes": "Audio/dz/56",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "138",
+      "Index": "137",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。第四项：将峰高I路105开关远方/就地转换开关由远方位置切换至就地位置",
+      "SoundRes": "Audio/dz/57",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "139",
+      "Index": "138",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-ckp/xd-kzs-ckp_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "140",
+      "Index": "139",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第四项：将峰高I路105开关远方/就地转换开关由远方位置切换至就地位置",
+      "SoundRes": "Audio/dz/58",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "141",
+      "Index": "140",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/59",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "142",
+      "Index": "141",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-ckp/xd-kzs-ckp_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "143",
+      "Index": "142",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "anim:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-ckp/xd-kzs-ckp_01|jiedibtn|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "144",
+      "Index": "143",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr|next",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/60",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "145",
+      "Index": "144",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "anim:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-ckp/xd-kzs-ckpm|closeckp",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "146",
+      "Index": "145",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-jcwb0|UI/Pics/xd-button-jcwb1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "147",
+      "Index": "146",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-qwdz0|UI/Pics/xd-button-qwdz1",
+      "TextData": "正确。去峰高I路1053刀闸处",
+      "SoundRes": "Audio/dz/61",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "148",
+      "Index": "147",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-4.714,30.221,-176.679)|portal|3|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "149",
+      "Index": "148",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点并进行三核正确",
+      "SoundRes": "Audio/dz/62",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "150",
+      "Index": "149",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(5.18,27.71,110.83)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "151",
+      "Index": "150",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daodianbi",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "152",
+      "Index": "151",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路1053刀闸，在合位",
+      "SoundRes": "Audio/dz/63",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "153",
+      "Index": "152",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确",
+      "SoundRes": "Audio/dz/64",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "154",
+      "Index": "153",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(1.39,27.71,101.11)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "155",
+      "Index": "154",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr|next",
+      "TextData": "核正确钥匙与锁具编号一致，开锁",
+      "SoundRes": "Audio/dz/65",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "156",
+      "Index": "155",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-jsdz0|UI/Pics/xd-button-jsdz1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "157",
+      "Index": "156",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddzm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "158",
+      "Index": "157",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddzm|opendzm|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "159",
+      "Index": "158",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys/xd-kzs-fwdnys-ys|(1.003975,30.24379,-173.3555)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "160",
+      "Index": "159",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|(-0.82,-0.1554,0.8528)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "161",
+      "Index": "160",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|1053ks",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "162",
+      "Index": "161",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。第五项：断开峰高I路1053刀闸",
+      "SoundRes": "Audio/dz/66",
+      "ShowAnim": "show:true|pos:(6.34,28.54,108.31)|rot:(-21.259,-54.816,-2.102)|"
+    },
+    {
+      "ID": "163",
+      "Index": "162",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddz-3TA",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "164",
+      "Index": "163",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第五项：断开峰高I路1053刀闸",
+      "SoundRes": "Audio/dz/67",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "165",
+      "Index": "164",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/68",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "166",
+      "Index": "165",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddz-3TA",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "167",
+      "Index": "166",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daodianbi|1053kaizha|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "168",
+      "Index": "167",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr|next",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/69",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "169",
+      "Index": "168",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-ghys0|UI/Pics/xd-button-ghys1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "170",
+      "Index": "169",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|1053gh",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "show:false|"
+    },
+    {
+      "ID": "171",
+      "Index": "170",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|(-0.82,-0.1554,0.8528)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "172",
+      "Index": "171",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddzm|closedzm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "173",
+      "Index": "172",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "对，检查峰高I路1053刀闸三相确已断开",
+      "SoundRes": "Audio/dz/70",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "174",
+      "Index": "173",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(5.18,27.71,110.83)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "175",
+      "Index": "174",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daodianbi",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "176",
+      "Index": "175",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "检查峰高I路1053刀闸三相确已断开，A相确已拉开，B相确已拉开，C相确已拉开",
+      "SoundRes": "Audio/dz/71",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "177",
+      "Index": "176",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。去峰高I路1051刀闸处",
+      "SoundRes": "Audio/dz/72",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "178",
+      "Index": "177",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(6.41,27.71,102.45)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "179",
+      "Index": "178",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "对，操作地点并进行三核正确",
+      "SoundRes": "Audio/dz/73",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "180",
+      "Index": "179",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-1051dz-jg/xd-105xl-1051dz-daodianbi",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "181",
+      "Index": "180",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路1051刀闸，在合位",
+      "SoundRes": "Audio/dz/74",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "182",
+      "Index": "181",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确",
+      "SoundRes": "Audio/dz/75",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "183",
+      "Index": "182",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(1.39,27.71,101.11)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "184",
+      "Index": "183",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-jsdz0|UI/Pics/xd-button-jsdz1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "185",
+      "Index": "184",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddzm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "186",
+      "Index": "185",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddzm|opendzm|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "187",
+      "Index": "186",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|(-0.82,-0.1554,1.1263)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "188",
+      "Index": "187",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|1051ks",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "189",
+      "Index": "188",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "编号正确，开锁完成",
+      "SoundRes": "Audio/dz/76",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "190",
+      "Index": "189",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。第六项：断开峰高I路1051刀闸",
+      "SoundRes": "Audio/dz/77",
+      "ShowAnim": "show:true|pos:(6.07,28.54,99.65)|rot:(-21.259,-54.816,-2.102)|"
+    },
+    {
+      "ID": "191",
+      "Index": "190",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddz-1TA",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "192",
+      "Index": "191",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第六项：断开峰高I路1051刀闸",
+      "SoundRes": "Audio/dz/78",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "193",
+      "Index": "192",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/79",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "194",
+      "Index": "193",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddz-1TA",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "195",
+      "Index": "194",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-1051dz-jg/xd-105xl-1051dz-daodianbi|1051kaizha|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "196",
+      "Index": "195",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr|next",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/80",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "197",
+      "Index": "196",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-ghys0|UI/Pics/xd-button-ghys1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "198",
+      "Index": "197",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|1051gh",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "show:false|"
+    },
+    {
+      "ID": "199",
+      "Index": "198",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-kzs-fwdnys-ys|(-0.82,-0.1554,0.8528)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "200",
+      "Index": "199",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-105kg-dddz/xd-105xl-105kg-dddzm|closedzm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "201",
+      "Index": "200",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。检查峰高I路1051刀闸三相确已断开",
+      "SoundRes": "Audio/dz/81",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "202",
+      "Index": "201",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(6.41,27.71,102.45)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "203",
+      "Index": "202",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-1051dz-jg/xd-105xl-1051dz-daodianbi",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "204",
+      "Index": "203",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "检查峰高I路1051刀闸三相确已断开，A相确已拉开，B相确已拉开，C相确已拉开",
+      "SoundRes": "Audio/dz/82",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "205",
+      "Index": "204",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "现在带上绝缘手套、工具、验电器及接地线去峰高I路1053刀闸靠线路间",
+      "SoundRes": "Audio/dz/83",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "206",
+      "Index": "205",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(4.8,28.65,111.06)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "207",
+      "Index": "206",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点",
+      "SoundRes": "Audio/dz/84",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "208",
+      "Index": "207",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "209",
+      "Index": "208",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路1053刀闸靠线路侧",
+      "SoundRes": "Audio/dz/85",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "210",
+      "Index": "209",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-jxyd0|UI/Pics/xd-button-jxyd1",
+      "TextData": "正确。首先在高压发生器处检查验电器完好",
+      "SoundRes": "Audio/dz/86",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "211",
+      "Index": "210",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "明白，验电器自检正常",
+      "SoundRes": "Audio/dz/87",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "212",
+      "Index": "211",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "第七项：验明峰高I路1053刀闸靠线路侧A、B、C三相确无电压。",
+      "SoundRes": "Audio/dz/88",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "213",
+      "Index": "212",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daodianbi",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "214",
+      "Index": "213",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第七项：验明峰高I路1053刀闸靠线路侧A、B、C三相确无电压。",
+      "SoundRes": "Audio/dz/89",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "215",
+      "Index": "214",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/90",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "216",
+      "Index": "215",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daodianbi",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "217",
+      "Index": "216",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/yandianqi|(97.552,-2.735,18.128)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "218",
+      "Index": "217",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/yandianqi|yandian",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "219",
+      "Index": "218",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/yandianqi|(97.552,-2.735,18.128)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "220",
+      "Index": "219",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "A相无电，B相无电，C相无电，三相确无电压",
+      "SoundRes": "Audio/dz/91",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "221",
+      "Index": "220",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。去峰高I路1056丙线路接地刀闸处",
+      "SoundRes": "Audio/dz/92",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "222",
+      "Index": "221",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(1.448,28.71,111.625)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "223",
+      "Index": "222",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_jigouxiangmen",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "224",
+      "Index": "223",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点并进行三核对",
+      "SoundRes": "Audio/dz/93",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "225",
+      "Index": "224",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daozha_02",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "226",
+      "Index": "225",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路1056丙线路接地刀闸，在分位",
+      "SoundRes": "Audio/dz/94",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "227",
+      "Index": "226",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确",
+      "SoundRes": "Audio/dz/95",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "228",
+      "Index": "227",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-jsdz0|UI/Pics/xd-button-jsdz1|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "229",
+      "Index": "228",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_suo_01|1056ks",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "230",
+      "Index": "229",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_suo_01|(0.5724611,27.67572,111.472)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "231",
+      "Index": "230",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_jigouxiangmen|openjgxm|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "232",
+      "Index": "231",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "编号正确，开锁完成",
+      "SoundRes": "Audio/dz/96",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "233",
+      "Index": "232",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "第八项：合上峰高I路1056丙线路接地刀闸",
+      "SoundRes": "Audio/dz/97",
+      "ShowAnim": "show:true|pos:(-1.15,27.96,114.04)|rot:(-26.864,134.574,4.122)|"
+    },
+    {
+      "ID": "234",
+      "Index": "233",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz-anniu_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "235",
+      "Index": "234",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第八项：合上峰高I路1056丙线路接地刀闸",
+      "SoundRes": "Audio/dz/98",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "236",
+      "Index": "235",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/99",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "237",
+      "Index": "236",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz-anniu_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "238",
+      "Index": "237",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daozha_02|1056jiedi|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "239",
+      "Index": "238",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/100",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "240",
+      "Index": "239",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。检查峰高I路1056丙线路接地刀闸A、B、C三相确已合上",
+      "SoundRes": "Audio/dz/101",
+      "ShowAnim": "show:false|"
+    },
+    {
+      "ID": "241",
+      "Index": "240",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-daozha_02",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "242",
+      "Index": "241",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "检查峰高I路1056丙线路接地刀闸，A相确已合好，B相确已合好，C相确已合好",
+      "SoundRes": "Audio/dz/102",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "243",
+      "Index": "242",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "对，锁上锁具",
+      "SoundRes": "Audio/dz/103",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "244",
+      "Index": "243",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_jigouxiangmen",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "245",
+      "Index": "244",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_jigouxiangmen|closejgxm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "246",
+      "Index": "245",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_suo_01|(1.560445,26.83443,111.2473)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "247",
+      "Index": "246",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1056dz-jigouxiang/xd-105xl-1056dz_suo_01|1056gh",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "248",
+      "Index": "247",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "明白，执行完毕",
+      "SoundRes": "Audio/dz/104",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "249",
+      "Index": "248",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "去峰高I路105线路PT端子箱处",
+      "SoundRes": "Audio/dz/105",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "250",
+      "Index": "249",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(1.585,28.77,115.77)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "251",
+      "Index": "250",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点并进行三核对",
+      "SoundRes": "Audio/dz/106",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "252",
+      "Index": "251",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_Duanzixiangmen",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "253",
+      "Index": "252",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_Duanzixiangmen|openptm|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "254",
+      "Index": "253",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路105线路PT端子箱处",
+      "SoundRes": "Audio/dz/107",
+      "ShowAnim": "show:true|pos:(0.47,27.005,115.972)|rot:(0,0,0)|"
+    },
+    {
+      "ID": "255",
+      "Index": "254",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确",
+      "SoundRes": "Audio/dz/108",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "256",
+      "Index": "255",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_kaiguan",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "257",
+      "Index": "256",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "峰高I路105线路PT二次空开在合位",
+      "SoundRes": "Audio/dz/109",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "258",
+      "Index": "257",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "对，第九项：断开峰高I路105线路PT二次空开",
+      "SoundRes": "Audio/dz/110",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "259",
+      "Index": "258",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_kaiguan",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "260",
+      "Index": "259",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第九项：断开峰高I路105线路PT二次空开",
+      "SoundRes": "Audio/dz/111",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "261",
+      "Index": "260",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/112",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "262",
+      "Index": "261",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_kaiguan",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "263",
+      "Index": "262",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_kaiguan|dkpt|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "264",
+      "Index": "263",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/113",
+      "ShowAnim": "clkhelp:true|"
+    },
+    {
+      "ID": "265",
+      "Index": "264",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。去峰高I路1053刀闸处",
+      "SoundRes": "Audio/dz/114",
+      "ShowAnim": "show:false|clkhelp:false|"
+    },
+    {
+      "ID": "266",
+      "Index": "265",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_Duanzixiangmen|closeptm",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "267",
+      "Index": "266",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(4.8,28.65,111.06)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "268",
+      "Index": "267",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点并进行三核对",
+      "SoundRes": "Audio/dz/115",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "269",
+      "Index": "268",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1053dz",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "270",
+      "Index": "269",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路1053刀闸处",
+      "SoundRes": "Audio/dz/116",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "271",
+      "Index": "270",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。第十项：在峰高I路1053刀闸操作把手上悬挂“禁止合闸，线路有人工作！”标示牌",
+      "SoundRes": "Audio/dz/117",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "272",
+      "Index": "271",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1053dz/xd-105xl-1053dz-bashou",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "273",
+      "Index": "272",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第十项：在峰高I路1053刀闸操作把手上悬挂“禁止合闸，线路有人工作！”标示牌",
+      "SoundRes": "Audio/dz/118",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "274",
+      "Index": "273",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/119",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "275",
+      "Index": "274",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "active:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1053dz/xd-105xl-1053dz-biaoshipai|(0,-0.631,1.432)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "276",
+      "Index": "275",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_1056dz/xd-105xl-1053dz/xd-105xl-1053dz-biaoshipai|xgbsp|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "277",
+      "Index": "276",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/120",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "278",
+      "Index": "277",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。去峰高I路105线路保护屏后处",
+      "SoundRes": "Audio/dz/121",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "279",
+      "Index": "278",
+      "Area": "3",
+      "Practice": "1",
+      "Operate": "move:(2.04,28.83,80.97)|portal|1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "280",
+      "Index": "279",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "active:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys/xd-kzs-fwdnys-ys|(1.003975,30.24379,-173.3555)|false",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "281",
+      "Index": "280",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "确认操作地点并进行三核对",
+      "SoundRes": "Audio/dz/122",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "282",
+      "Index": "281",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-3.315,30.221,-168.203)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "283",
+      "Index": "282",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-bhp",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "284",
+      "Index": "283",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "这里是峰高I路105线路保护屏后处，105开关控制电源空开在合位",
+      "SoundRes": "Audio/dz/123",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "285",
+      "Index": "284",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确。第十一项：断开峰高I路105开关控制电源空开",
+      "SoundRes": "Audio/dz/124",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "286",
+      "Index": "285",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-bhp/xd-kzs-bhpkg_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "287",
+      "Index": "286",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "第十一项：断开峰高I路105开关控制电源空开",
+      "SoundRes": "Audio/dz/125",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "288",
+      "Index": "287",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "正确，执行",
+      "SoundRes": "Audio/dz/126",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "289",
+      "Index": "288",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-bhp/xd-kzs-bhpkg_01",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "290",
+      "Index": "289",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "anim:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-bhp/xd-kzs-bhpkg_01|dkdy|record",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "291",
+      "Index": "290",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "执行完毕",
+      "SoundRes": "Audio/dz/127",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "292",
+      "Index": "291",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "tip:6|99",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "293",
+      "Index": "292",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "photo:UI/Pics/xd-dz-jhr",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "294",
+      "Index": "293",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "现在去五防机处",
+      "SoundRes": "Audio/dz/128",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "295",
+      "Index": "294",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "move:(-0.2,30.221,-173.82)",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "296",
+      "Index": "295",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "复查操作票",
+      "SoundRes": "Audio/dz/129",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "297",
+      "Index": "296",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-wfj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "298",
+      "Index": "297",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "popup:init|caozuopiao|null|null",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "299",
+      "Index": "298",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "btn:UI/Pics/xd-button-jcwb0|UI/Pics/xd-button-jcwb1",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "300",
+      "Index": "299",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "popup:close|caozuopiao",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "301",
+      "Index": "300",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|UI/Pics/xd-button-hcys0|UI/Pics/xd-button-hcys1",
+      "TextData": "正确，回传钥匙",
+      "SoundRes": "Audio/dz/130",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "302",
+      "Index": "301",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "303",
+      "Index": "302",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "active:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-fwdnys/xd-kzs-fwdnys-ys|(1.003975,30.24379,-173.3555)|true",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "304",
+      "Index": "303",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:1|next",
+      "TextData": "检查监控后台与五防画面设备位置是否对应变位，有无异常信号",
+      "SoundRes": "Audio/dz/131",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "305",
+      "Index": "304",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "click:Models/PDS/220PDF/Models/PDF_LT/xd-kzs-wfj",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "306",
+      "Index": "305",
+      "Area": "1",
+      "Practice": "1",
+      "Operate": "sound:2|UI/Pics/xd-dz-czr",
+      "TextData": "五防画面设备位置正确变位。监控后台设备位置正确变位，无异常信号。",
+      "SoundRes": "Audio/dz/132",
+      "ShowAnim": "null"
+    },
+    {
+      "ID": "307",
+      "Index": "306",
+      "Area": "1",
+      "Practice": "0",
+      "Operate": "tip:7|293",
+      "TextData": "null",
+      "SoundRes": "null",
+      "ShowAnim": "null"
+    }
+  ]
+}

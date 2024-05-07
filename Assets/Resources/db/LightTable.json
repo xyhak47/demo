@@ -1,0 +1,84 @@
+{
+  "RECORDS": [
+    {
+      "ID": 1,
+      "LightTarget": "GBackButton",
+      "TextResL": "点击此处可以",
+      "TextResR": "返回主标题",
+      "DownDistance": "50",
+      "LorRDistance": "Right|50"
+    },
+    {
+      "ID": 2,
+      "LightTarget": "GHelpIcon",
+      "TextResL": "点击此处可以",
+      "TextResR": "打开引导教程",
+      "DownDistance": "50",
+      "LorRDistance": "Left|50"
+    },
+    {
+      "ID": 3,
+      "LightTarget": "GElecIcon",
+      "TextResL": "点击此处可以",
+      "TextResR": "打开接线图",
+      "DownDistance": "50",
+      "LorRDistance": "Left|50"
+    },
+    {
+      "ID": 4,
+      "LightTarget": "GTaskIcon",
+      "TextResL": "点击此处可以",
+      "TextResR": "打开任务栏",
+      "DownDistance": "50",
+      "LorRDistance": "Left|90"
+    },
+    {
+      "ID": 5,
+      "LightTarget": "GTaskList",
+      "TextResL": "点击此处可以",
+      "TextResR": "查看所有任务及完成情况",
+      "DownDistance": "150",
+      "LorRDistance": "Left|220"
+    },
+    {
+      "ID": 6,
+      "LightTarget": "GMapIcon",
+      "TextResL": "点击此处可以",
+      "TextResR": "打开地图",
+      "DownDistance": "50",
+      "LorRDistance": "Left|110"
+    },
+    {
+      "ID": 7,
+      "LightTarget": "GZoomIn",
+      "TextResL": "点击此处可以",
+      "TextResR": "放大地图",
+      "DownDistance": "50",
+      "LorRDistance": "Left|130"
+    },
+    {
+      "ID": 8,
+      "LightTarget": "GZoomOut",
+      "TextResL": "点击此处可以",
+      "TextResR": "缩小地图",
+      "DownDistance": "50",
+      "LorRDistance": "Left|90"
+    },
+    {
+      "ID": 9,
+      "LightTarget": "GModel,1",
+      "TextResL": "null",
+      "TextResR": "null",
+      "DownDistance": "50",
+      "LorRDistance": "null"
+    },
+    {
+      "ID": 10,
+      "LightTarget": "GBg",
+      "TextResL": "鼠标右键长按可以",
+      "TextResR": "旋转模型结构",
+      "DownDistance": "300",
+      "LorRDistance": "Left|300"
+    }
+  ]
+}

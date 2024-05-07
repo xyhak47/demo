@@ -1,0 +1,95 @@
+{
+  "RECORDS": [
+    {
+      "ID": 1,
+      "Index": "0",
+      "Operate": "ui:sub_6,UI/Prefabs/Unit2,UI/Pics/xd-xs-lxxs",
+      "Position": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 2,
+      "Index": "1",
+      "Operate": "move:xd-zhubian",
+      "Position": "(-38.4,28.65,97)",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 3,
+      "Index": "2",
+      "Operate": "click:subzb,1",
+      "Position": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 4,
+      "Index": "3",
+      "Operate": "move:Models/Model/changjing/thefirst/xd-105xl-1051dz",
+      "Position": "(2.06,27.65,96.95)",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 5,
+      "Index": "4",
+      "Operate": "click:subdz,2",
+      "Position": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 6,
+      "Index": "5",
+      "Operate": "move:Models/Model/changjing/thefirst/xd-105xl-105kg",
+      "Position": "(-1.23,27.7,102.6)",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 7,
+      "Index": "6",
+      "Operate": "click:subkg,3",
+      "Position": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 8,
+      "Index": "7",
+      "Operate": "move:Models/Model/changjing/thefirst/xd-105xl-ct",
+      "Position": "(-1.76,27.65,105.24)",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 9,
+      "Index": "8",
+      "Operate": "click:subct,4",
+      "Position": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 10,
+      "Index": "9",
+      "Operate": "move:Models/Model/changjing/thefirst/xd_105xl_105pt",
+      "Position": "(1.06,27.7,114.42)",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 11,
+      "Index": "10",
+      "Operate": "click:subpt,5",
+      "Position": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 12,
+      "Index": "11",
+      "Operate": "move:Models/Model/changjing/thefirst/xd-105xl-105blq",
+      "Position": "(1.6,27.7,116.0618)",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 13,
+      "Index": "12",
+      "Operate": "click:subblq,6",
+      "Position": "null",
+      "SoundRes": "null"
+    }
+  ]
+}

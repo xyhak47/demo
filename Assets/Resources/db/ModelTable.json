@@ -1,0 +1,324 @@
+{
+  "RECORDS": [
+    {
+      "ID": 1,
+      "ModelType": "1",
+      "ModelObj": "subzb",
+      "ImgRes": "UI/Pics/xd-xs-zbwb1|1|1",
+      "SoundRes": "Audio/xsxx/1",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 2,
+      "ModelType": "1",
+      "ModelObj": "subzb",
+      "ImgRes": "UI/Pics/xd-xs-zbwb2|1|1",
+      "SoundRes": "Audio/xsxx/2",
+      "BtnRes": "Hearing,Merge"
+    },
+    {
+      "ID": 3,
+      "ModelType": "1",
+      "ModelObj": "subzb",
+      "ImgRes": "UI/Pics/xd-xs-zbwb3|1|1",
+      "SoundRes": "Audio/xsxx/3",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 4,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No0/youxiang",
+      "ImgRes": "UI/Pics/xd-xs-zbwb4|1|1",
+      "SoundRes": "Audio/xsxx/4",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 5,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No25/chuyougui",
+      "ImgRes": "UI/Pics/xd-xs-zbwb5|1|1",
+      "SoundRes": "Audio/xsxx/5",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 6,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No11/huxiqi",
+      "ImgRes": "UI/Pics/xd-xs-zbwb6|1|1",
+      "SoundRes": "Audio/xsxx/6",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 7,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No4/wenduji",
+      "ImgRes": "UI/Pics/xd-xs-zbwb7|1|1",
+      "SoundRes": "Audio/xsxx/7",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 8,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No27/lengquezhuangzhi",
+      "ImgRes": "UI/Pics/xd-xs-zbwb8|1|1",
+      "SoundRes": "Audio/xsxx/8",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 9,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No2/yalishifangfa",
+      "ImgRes": "UI/Pics/xd-xs-zbwb9|1|1",
+      "SoundRes": "Audio/xsxx/9",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 10,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No7/wasijidianqi",
+      "ImgRes": "UI/Pics/xd-xs-zbwb10|1|1",
+      "SoundRes": "Audio/xsxx/10",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 11,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No15/fenjiekaiguan",
+      "ImgRes": "UI/Pics/xd-xs-zbwb11|1|1",
+      "SoundRes": "Audio/xsxx/11",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 12,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_outside_No6",
+      "ImgRes": "UI/Pics/xd-xs-zbnb4|1|1",
+      "SoundRes": "Audio/xsxx/15",
+      "BtnRes": "Merge"
+    },
+    {
+      "ID": 13,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_inside_No2/Oil",
+      "ImgRes": "UI/Pics/xd-xs-zbnb5|2|13",
+      "SoundRes": "Audio/xsxx/16",
+      "BtnRes": "Split,Transparent"
+    },
+    {
+      "ID": 14,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_inside_No8/tiexin",
+      "ImgRes": "UI/Pics/xd-xs-zbnb1|2|13",
+      "SoundRes": "Audio/xsxx/12",
+      "BtnRes": "Transparent,TOil"
+    },
+    {
+      "ID": 15,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_inside_No9/raozu",
+      "ImgRes": "UI/Pics/xd-xs-zbnb2|2|13",
+      "SoundRes": "Audio/xsxx/13",
+      "BtnRes": "Transparent,TOil"
+    },
+    {
+      "ID": 16,
+      "ModelType": "1",
+      "ModelObj": "3D/Pivot/subzb/zb_a_inside_No10/jueyuanjiegou",
+      "ImgRes": "UI/Pics/xd-xs-zbnb3|2|13",
+      "SoundRes": "Audio/xsxx/14",
+      "BtnRes": "Transparent,TOil"
+    },
+    {
+      "ID": 17,
+      "ModelType": "2",
+      "ModelObj": "subdz",
+      "ImgRes": "UI/Pics/xd-xs-glkg1|1|1",
+      "SoundRes": "Audio/xsxx/17",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 18,
+      "ModelType": "2",
+      "ModelObj": "subdz",
+      "ImgRes": "UI/Pics/xd-xs-glkg2|1|1",
+      "SoundRes": "Audio/xsxx/18",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 19,
+      "ModelType": "2",
+      "ModelObj": "3D/Pivot/subdz/xs-105xl-1051dz/daodianbi",
+      "ImgRes": "UI/Pics/xd-xs-glkg3|1|1",
+      "SoundRes": "Audio/xsxx/19",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 20,
+      "ModelType": "2",
+      "ModelObj": "3D/Pivot/subdz/xs-105xl-1051dz/chuandongbufen",
+      "ImgRes": "UI/Pics/xd-xs-glkg4|1|1",
+      "SoundRes": "Audio/xsxx/20",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 21,
+      "ModelType": "2",
+      "ModelObj": "3D/Pivot/subdz/xs-105xl-1051dz/jigouxiang",
+      "ImgRes": "UI/Pics/xd-xs-glkg5|1|1",
+      "SoundRes": "Audio/xsxx/21",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 22,
+      "ModelType": "3",
+      "ModelObj": "subkg",
+      "ImgRes": "UI/Pics/xd-xs-dlq1|1|1",
+      "SoundRes": "Audio/xsxx/22",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 23,
+      "ModelType": "3",
+      "ModelObj": "subkg",
+      "ImgRes": "UI/Pics/xd-xs-dlq2|1|1",
+      "SoundRes": "Audio/xsxx/23",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 24,
+      "ModelType": "3",
+      "ModelObj": "3D/Pivot/subkg/kgfenhezhishi",
+      "ImgRes": "UI/Pics/xd-xs-dlq3|1|1",
+      "SoundRes": "Audio/xsxx/24",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 25,
+      "ModelType": "3",
+      "ModelObj": "3D/Pivot/subkg/SF6yalibiao",
+      "ImgRes": "UI/Pics/xd-xs-dlq4|1|1",
+      "SoundRes": "Audio/xsxx/25",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 26,
+      "ModelType": "3",
+      "ModelObj": "3D/Pivot/subkg/jigouxiang",
+      "ImgRes": "UI/Pics/xd-xs-dlq5|1|1",
+      "SoundRes": "Audio/xsxx/26",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 27,
+      "ModelType": "3",
+      "ModelObj": "3D/Pivot/subkg/waicitao",
+      "ImgRes": "UI/Pics/xd-xs-dlq6|1|1",
+      "SoundRes": "Audio/xsxx/27",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 28,
+      "ModelType": "4",
+      "ModelObj": "subct",
+      "ImgRes": "UI/Pics/xd-xs-dlhgq1|1|1",
+      "SoundRes": "Audio/xsxx/28",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 29,
+      "ModelType": "4",
+      "ModelObj": "3D/Pivot/subct/youweichuang",
+      "ImgRes": "UI/Pics/xd-xs-dlhgq2|1|1",
+      "SoundRes": "Audio/xsxx/29",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 30,
+      "ModelType": "4",
+      "ModelObj": "3D/Pivot/subct/ercijiexianhe",
+      "ImgRes": "UI/Pics/xd-xs-dlhgq3|1|1",
+      "SoundRes": "Audio/xsxx/30",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 31,
+      "ModelType": "4",
+      "ModelObj": "3D/Pivot/subct/yinxian",
+      "ImgRes": "UI/Pics/xd-xs-dlhgq4|1|1",
+      "SoundRes": "Audio/xsxx/31",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 32,
+      "ModelType": "5",
+      "ModelObj": "ptt",
+      "ImgRes": "UI/Pics/xd-xs-dyhgq1|1|1",
+      "SoundRes": "Audio/xsxx/32",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 33,
+      "ModelType": "5",
+      "ModelObj": "3D/Pivot/subpt/xd-105xl-pt/ptt/waicitao",
+      "ImgRes": "UI/Pics/xd-xs-dyhgq2|1|1",
+      "SoundRes": "Audio/xsxx/33",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 34,
+      "ModelType": "5",
+      "ModelObj": "3D/Pivot/subpt/xd-105xl-pt/ptt/jiexianhe",
+      "ImgRes": "UI/Pics/xd-xs-dyhgq3|1|1",
+      "SoundRes": "Audio/xsxx/34",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 35,
+      "ModelType": "5",
+      "ModelObj": "3D/Pivot/subpt/xd-105xl-pt/jinshugan",
+      "ImgRes": "UI/Pics/xd-xs-dyhgq4|1|1",
+      "SoundRes": "Audio/xsxx/35",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 36,
+      "ModelType": "5",
+      "ModelObj": "3D/Pivot/subpt/jigouxiang",
+      "ImgRes": "UI/Pics/xd-xs-dyhgq5|1|1",
+      "SoundRes": "Audio/xsxx/36",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 37,
+      "ModelType": "6",
+      "ModelObj": "subblq",
+      "ImgRes": "UI/Pics/xd-xs-blq1|1|1",
+      "SoundRes": "Audio/xsxx/37",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 38,
+      "ModelType": "6",
+      "ModelObj": "3D/Pivot/subblq",
+      "ImgRes": "UI/Pics/xd-xs-blq2|1|1",
+      "SoundRes": "Audio/xsxx/38",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 39,
+      "ModelType": "6",
+      "ModelObj": "3D/Pivot/subblq/dianliubiao",
+      "ImgRes": "UI/Pics/xd-xs-blq3|1|1",
+      "SoundRes": "Audio/xsxx/39",
+      "BtnRes": "null"
+    },
+    {
+      "ID": 40,
+      "ModelType": "6",
+      "ModelObj": "3D/Pivot/subblq/dizuo",
+      "ImgRes": "UI/Pics/xd-xs-blq4|1|1",
+      "SoundRes": "Audio/xsxx/40",
+      "BtnRes": "null"
+    }
+  ]
+}

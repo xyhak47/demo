@@ -1,0 +1,39 @@
+{
+  "RECORDS": [
+    {
+      "ID": "1",
+      "SceneType": "1",
+      "QuestionID": "1",
+      "FaultModName": "niaowo",
+      "Location": "pos:(5.92,28.65,107.65)|rot:(0,-69.794,0)"
+    },
+    {
+      "ID": "2",
+      "SceneType": "1",
+      "QuestionID": "2",
+      "FaultModName": "liewen",
+      "Location": "pos:(-37.33,28.65,97.87)|rot:(-9.124,-179.569,-0.068)"
+    },
+    {
+      "ID": "3",
+      "SceneType": "1",
+      "QuestionID": "6",
+      "FaultModName": "youwenbiao",
+      "Location": "pos:(-41.5,28.65,91.07)|rot:(0,90,0)"
+    },
+    {
+      "ID": "4",
+      "SceneType": "1",
+      "QuestionID": "10",
+      "FaultModName": "chuyougui",
+      "Location": "pos:(-42.33,28.65,94.94)|rot:(-20.09,-179.547,-0.156)"
+    },
+    {
+      "ID": "5",
+      "SceneType": "1",
+      "QuestionID": "14",
+      "FaultModName": "louyou",
+      "Location": "pos:(-37.33,28.65,97.02)|rot:(2.895,-179.574,0.022)"
+    }
+  ]
+}

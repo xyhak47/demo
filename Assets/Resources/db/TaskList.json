@@ -1,0 +1,108 @@
+{
+  "RECORDS": [
+    {
+      "ID": "1",
+      "TaskName": "巡视主变",
+      "TaskSprite": "UI/Pics/xd-rwl-xszb0|UI/Pics/xd-rwl-xszb1",
+      "Scene": "xunshi",
+      "StudyStep": "1,3",
+      "PracticeStep": "0,8"
+    },
+    {
+      "ID": "2",
+      "TaskName": "巡视隔离开关",
+      "TaskSprite": "UI/Pics/xd-rwl-xsglkg0|UI/Pics/xd-rwl-xsglkg1",
+      "Scene": "xunshi",
+      "StudyStep": "4,5",
+      "PracticeStep": "9,12"
+    },
+    {
+      "ID": "3",
+      "TaskName": "巡视断路器",
+      "TaskSprite": "UI/Pics/xd-rwl-xsdlq0|UI/Pics/xd-rwl-xsdlq1",
+      "Scene": "xunshi",
+      "StudyStep": "6,7",
+      "PracticeStep": "13,17"
+    },
+    {
+      "ID": "4",
+      "TaskName": "巡视电流互感器",
+      "TaskSprite": "UI/Pics/xd-rwl-xsdlhgq0|UI/Pics/xd-rwl-xsdlhgq1",
+      "Scene": "xunshi",
+      "StudyStep": "8,9",
+      "PracticeStep": "18,21"
+    },
+    {
+      "ID": "5",
+      "TaskName": "巡视电压互感器",
+      "TaskSprite": "UI/Pics/xd-rwl-xsdyhgq0|UI/Pics/xd-rwl-xsdyhgq1",
+      "Scene": "xunshi",
+      "StudyStep": "10,11",
+      "PracticeStep": "22,26"
+    },
+    {
+      "ID": "6",
+      "TaskName": "巡视避雷器",
+      "TaskSprite": "UI/Pics/xd-rwl-xsblq0|UI/Pics/xd-rwl-xsblq1",
+      "Scene": "xunshi",
+      "StudyStep": "12,13",
+      "PracticeStep": "27,30"
+    },
+    {
+      "ID": "7",
+      "TaskName": "接受调度指令",
+      "TaskSprite": "UI/Pics/xd-rwl-jsddzl0|UI/Pics/xd-rwl-jsddzl1",
+      "Scene": "daozha",
+      "StudyStep": "1,11,3",
+      "PracticeStep": "1,11,3"
+    },
+    {
+      "ID": "8",
+      "TaskName": "分配操作任务",
+      "TaskSprite": "UI/Pics/xd-rwl-fpczrw0|UI/Pics/xd-rwl-fpczrw1",
+      "Scene": "daozha",
+      "StudyStep": "13,17,1",
+      "PracticeStep": "13,17,1"
+    },
+    {
+      "ID": "9",
+      "TaskName": "填写操作票",
+      "TaskSprite": "UI/Pics/xd-rwl-txczp0|UI/Pics/xd-rwl-txczp1",
+      "Scene": "daozha",
+      "StudyStep": "19,24,1",
+      "PracticeStep": "19,24,1"
+    },
+    {
+      "ID": "10",
+      "TaskName": "操作前准备",
+      "TaskSprite": "UI/Pics/xd-rwl-czqzb0|UI/Pics/xd-rwl-czqzb1",
+      "Scene": "daozha",
+      "StudyStep": "26,80,1",
+      "PracticeStep": "26,80,1"
+    },
+    {
+      "ID": "11",
+      "TaskName": "模拟预演阶段",
+      "TaskSprite": "UI/Pics/xd-rwl-mnyyjd0|UI/Pics/xd-rwl-mnyyjd1",
+      "Scene": "daozha",
+      "StudyStep": "82,97,2",
+      "PracticeStep": "82,97,2"
+    },
+    {
+      "ID": "12",
+      "TaskName": "倒闸操作阶段",
+      "TaskSprite": "UI/Pics/xd-rwl-dzczjd0|UI/Pics/xd-rwl-dzczjd1",
+      "Scene": "daozha",
+      "StudyStep": "99,291,1",
+      "PracticeStep": "99,291,1"
+    },
+    {
+      "ID": "13",
+      "TaskName": "复查阶段",
+      "TaskSprite": "UI/Pics/xd-rwl-fcjd0|UI/Pics/xd-rwl-fcjd1",
+      "Scene": "daozha",
+      "StudyStep": "293,306,1",
+      "PracticeStep": "293,306,1"
+    }
+  ]
+}

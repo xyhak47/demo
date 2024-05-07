@@ -1,0 +1,334 @@
+{
+  "RECORDS": [
+    {
+      "ID": 1,
+      "ModelType": "1",
+      "Operate": "at:Models/xd-zhubian",
+      "Position": "(-38.15,28.65,97)",
+      "Rotation": "(0,-180,0)",
+      "TextRes": "null",
+      "SpriteRes": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 2,
+      "ModelType": "1",
+      "Operate": "hear",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查变压器运行声音是否正常",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/1"
+    },
+    {
+      "ID": 3,
+      "ModelType": "1",
+      "Operate": "click:Models/xd-zhubian/xiangti/middle/bianyaqiyouxiang",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查变压器油箱及外部螺栓等部位，无异常发热情况",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/2"
+    },
+    {
+      "ID": 4,
+      "ModelType": "1",
+      "Operate": "click:Models/xd-zhubian/xiangti/lengquezhuangzhi",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查变压器冷却装置、油管路等密封连接处，应密封良好，无渗漏油情况",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/3"
+    },
+    {
+      "ID": 5,
+      "ModelType": "1",
+      "Operate": "click:Models/xd-zhubian/xiangti/middle/chuyougui",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查变压器油位计油位、油色正常，油枕与油枕相连的油路无渗漏油情况",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/4"
+    },
+    {
+      "ID": 6,
+      "ModelType": "1",
+      "Operate": "click:Models/xd-zhubian/xiangti/middle/wasijidianqi",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查变压器瓦斯继电器工作正常，防水措施良好",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/7"
+    },
+    {
+      "ID": 7,
+      "ModelType": "1",
+      "Operate": "click:Models/xd-zhubian/Buchongshebei/huxiqizhengti/huxiqi",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查变压器呼吸器外观无破损，干燥剂变色部分不超过2/3",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/5"
+    },
+    {
+      "ID": 8,
+      "ModelType": "1",
+      "Operate": "click:Models/xd-zhubian/xiangti/middle/wenduji",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查变压器温度计值与遥测值相符",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/6"
+    },
+    {
+      "ID": 9,
+      "ModelType": "1",
+      "Operate": "click:Models/xd-zhubian/xiangti/middle/fenjiekaiguan",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请统计变压器有载开关动作次数，确认档位指示与主控一致，密封完好，内部无受潮锈蚀现象",
+      "SpriteRes": "UI/Pics/xd-xs-tsxx",
+      "SoundRes": "Audio/xslx/8"
+    },
+    {
+      "ID": 10,
+      "ModelType": "2",
+      "Operate": "at:Models/Model/changjing/thefirst/xd-105xl-1051dz",
+      "Position": "(2.24,28.65,97.5)",
+      "Rotation": "(0,0,0)",
+      "TextRes": "null",
+      "SpriteRes": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 11,
+      "ModelType": "2",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-1051dz-jg/xd-105xl-1051dz-daodianbi",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查隔离开关导电臂连接是否完好，着重关注金属连接部位发热情况",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/9"
+    },
+    {
+      "ID": 12,
+      "ModelType": "2",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-1051dz-jg/xd-105xl-1051dz_chuandongbufen",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查隔离开关传动部分观察连杆部分的连接是否良好，螺栓是否松动或脱落、瓷瓶是否有严重的污垢裂纹或破损",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/10"
+    },
+    {
+      "ID": 13,
+      "ModelType": "2",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-1051dz/xd-105xl-1051dz-jg/xd-105xl-1051dz_jigouxiang_01",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查隔离开关操纵部分密封是否完好，防雨措施良好",
+      "SpriteRes": "UI/Pics/xd-xs-wcglkg",
+      "SoundRes": "Audio/xslx/11"
+    },
+    {
+      "ID": 14,
+      "ModelType": "3",
+      "Operate": "at:Models/Model/changjing/thefirst/xd-105xl-105kg",
+      "Position": "(-1.60,28.7,102.595)",
+      "Rotation": "(0,43.7,0)",
+      "TextRes": "null",
+      "SpriteRes": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 15,
+      "ModelType": "3",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105kg/xd-105xl-105kg-kgjxzs",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查断路器机械分合位置指示位置是否和实际位置一致",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/12"
+    },
+    {
+      "ID": 16,
+      "ModelType": "3",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105kg/xd-105xl-105kg-ylb",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查断路器六氟化硫气体的压力是否在额定值的范围内，若太低需要补气",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/13"
+    },
+    {
+      "ID": 17,
+      "ModelType": "3",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105kg/xd-105xl-105kg-jgx",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查断路器弹簧操动机构弹簧无锈蚀、裂纹或断裂，机构箱观察箱里面的弹簧储能指示在最上方",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/14"
+    },
+    {
+      "ID": 18,
+      "ModelType": "3",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105kg/xd-105xl-105kg-wct",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查断路器外瓷套上面是否有破损和裂纹，连接的机构有无螺丝松动或脱落",
+      "SpriteRes": "UI/Pics/xd-xs-wcdlq",
+      "SoundRes": "Audio/xslx/15"
+    },
+    {
+      "ID": 19,
+      "ModelType": "4",
+      "Operate": "at:Models/Model/changjing/thefirst/xd-105xl-ct",
+      "Position": "(6.738712,28.69,110.7266)",
+      "Rotation": "(0,-115.55,0)",
+      "TextRes": "null",
+      "SpriteRes": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 20,
+      "ModelType": "4",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-ct/xd-105xl-ct-youweichuang",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查电流互感器油位是否正常，各个部分有无渗漏油的情况",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/16"
+    },
+    {
+      "ID": 21,
+      "ModelType": "4",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-ct/xd-105xl-ct-ercijiexianhe",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查电流互感器二次接线盒部分的密封是否完好，尤其是电缆连接处的孔洞是否封堵良好",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/17"
+    },
+    {
+      "ID": 22,
+      "ModelType": "4",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-ct/xd-105xl-ct-yinxian",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查电流互感器本体或引线接头发热情况",
+      "SpriteRes": "UI/Pics/xd-xs-wcct",
+      "SoundRes": "Audio/xslx/18"
+    },
+    {
+      "ID": 23,
+      "ModelType": "5",
+      "Operate": "at:Models/Model/changjing/thefirst/xd_105xl_105pt",
+      "Position": "(4.914,28.7056,116.46)",
+      "Rotation": "(0,-86.614,0)",
+      "TextRes": "null",
+      "SpriteRes": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 24,
+      "ModelType": "5",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-pt/pttt",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查电压互感器设备外观完好、无损，外绝缘表面清洁、无裂纹及异常放电现象",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/19"
+    },
+    {
+      "ID": 25,
+      "ModelType": "5",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-pt/pttt/xd_105xl_pt_jiexanhe",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查电压互感器一、二次接线端子应连接牢固，接触良好，标志清晰，无过热迹象",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/20"
+    },
+    {
+      "ID": 26,
+      "ModelType": "5",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-pt/xd_105xl_pt_jinshugan",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查电压互感器金属部位无锈蚀，底座、构架牢固，无倾斜变形",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/21"
+    },
+    {
+      "ID": 27,
+      "ModelType": "5",
+      "Operate": "click:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查电压互感器二次熔断器或二次空气开关正常",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/22"
+    },
+    {
+      "ID": 28,
+      "ModelType": "5",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_Duanzixiangmen|openptm",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "null",
+      "SpriteRes": "UI/Pics/xd-xs-wcpt",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 29,
+      "ModelType": "6",
+      "Operate": "at:Models/Model/changjing/thefirst/xd-105xl-105blq",
+      "Position": "(2.049,28.7056,121.3626)",
+      "Rotation": "(0,-176.47,0)",
+      "TextRes": "null",
+      "SpriteRes": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 30,
+      "ModelType": "6",
+      "Operate": "anim:Models/Model/changjing/thefirst/xd_105xl_105pt/xd-105xl-105pt-jgx/xd-105xl-105pt-jgx_Duanzixiangmen|closeptm",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "null",
+      "SpriteRes": "null",
+      "SoundRes": "null"
+    },
+    {
+      "ID": 31,
+      "ModelType": "6",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105blq",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查避雷器设备外观完好、无损，外绝缘表面清洁、无裂纹及异常放电现象",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/23"
+    },
+    {
+      "ID": 32,
+      "ModelType": "6",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105blq/xd-105xl-blq-dianliubiao",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查避雷器连接引线连接是否完好，连接的线路电流表指示是否正常、三相的对比差距不大、与之前历史记录差距不大",
+      "SpriteRes": "null",
+      "SoundRes": "Audio/xslx/24"
+    },
+    {
+      "ID": 33,
+      "ModelType": "6",
+      "Operate": "click:Models/Model/changjing/thefirst/xd-105xl-105blq/xd-105xl-blq-dizuo",
+      "Position": "null",
+      "Rotation": "null",
+      "TextRes": "请检查避雷器底座基础的接地部位连接是否牢固可靠：面积足够、螺栓牢靠",
+      "SpriteRes": "UI/Pics/xd-xs-wcblq",
+      "SoundRes": "Audio/xslx/25"
+    }
+  ]
+}

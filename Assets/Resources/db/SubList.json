@@ -1,0 +1,116 @@
+{
+  "RECORDS": [
+    {
+      "ID": 1,
+      "SubType": "sub_1",
+      "SubString": "基本概念",
+      "SubRes": "UI/Pics/xd-dz-dzcz-jbgn0|UI/Pics/xd-dz-dzcz-jbgn1",
+      "TitleRes": "倒闸操作",
+      "ContentData": "txt:100"
+    },
+    {
+      "ID": 2,
+      "SubType": "sub_1",
+      "SubString": "电气设备状态",
+      "SubRes": "UI/Pics/xd-dz-dzcz-dqsbzt0|UI/Pics/xd-dz-dzcz-dqsbzt1",
+      "TitleRes": "倒闸操作",
+      "ContentData": "pic:101"
+    },
+    {
+      "ID": 3,
+      "SubType": "sub_1",
+      "SubString": "电气设备五防",
+      "SubRes": "UI/Pics/xd-dz-dzcz-dqsnwf0|UI/Pics/xd-dz-dzcz-dqsbwf1",
+      "TitleRes": "倒闸操作",
+      "ContentData": "txt:102"
+    },
+    {
+      "ID": 4,
+      "SubType": "sub_1",
+      "SubString": "注意事项",
+      "SubRes": "UI/Pics/xd-dz-dzcz-zysx0|UI/Pics/xd-dz-dzcz-zysx1",
+      "TitleRes": "倒闸操作",
+      "ContentData": "txt:103"
+    },
+    {
+      "ID": 5,
+      "SubType": "sub_2",
+      "SubString": "基本原则",
+      "SubRes": "UI/Pics/xd-dz-dzcz-jbyz0|UI/Pics/xd-dz-dzcz-jbyz1",
+      "TitleRes": "倒闸操作",
+      "ContentData": "txt:104"
+    },
+    {
+      "ID": 6,
+      "SubType": "sub_2",
+      "SubString": "基本要求",
+      "SubRes": "UI/Pics/xd-dz-dzcz-jbyq0|UI/Pics/xd-dz-dzcz-jbyq1",
+      "TitleRes": "倒闸操作",
+      "ContentData": "txt:105"
+    },
+    {
+      "ID": 7,
+      "SubType": "sub_3",
+      "SubString": "基本概念",
+      "SubRes": "UI/Pics/xd-dz-dzcz-jbgn0|UI/Pics/xd-dz-dzcz-jbgn1",
+      "TitleRes": "操作票",
+      "ContentData": "txt:106"
+    },
+    {
+      "ID": 8,
+      "SubType": "sub_3",
+      "SubString": "基本原则",
+      "SubRes": "UI/Pics/xd-dz-dzcz-jbyz0|UI/Pics/xd-dz-dzcz-jbyz1",
+      "TitleRes": "操作票",
+      "ContentData": "txt:107"
+    },
+    {
+      "ID": 9,
+      "SubType": "sub_4",
+      "SubString": "工器具的认知",
+      "SubRes": "UI/Pics/xd-dz-czzb-gqj0|UI/Pics/xd-dz-czzb-gqj1",
+      "TitleRes": "操作准备",
+      "ContentData": "txt:108"
+    },
+    {
+      "ID": 10,
+      "SubType": "sub_4",
+      "SubString": "巡检员常用装备",
+      "SubRes": "UI/Pics/xd-dz-czzb-xjy0|UI/Pics/xd-dz-czzb-xjy1",
+      "TitleRes": "操作准备",
+      "ContentData": "pic:109"
+    },
+    {
+      "ID": 11,
+      "SubType": "sub_5",
+      "SubString": "基本概念",
+      "SubRes": "UI/Pics/xd-dz-mnyy-jbgn0|UI/Pics/xd-dz-mnyy-jbgn1",
+      "TitleRes": "模拟预演",
+      "ContentData": "txt:110"
+    },
+    {
+      "ID": 12,
+      "SubType": "sub_5",
+      "SubString": "模拟阶段",
+      "SubRes": "UI/Pics/xd-dz-mnyy-mnjd0|UI/Pics/xd-dz-mnyy-mnjd1",
+      "TitleRes": "模拟预演",
+      "ContentData": "txt:111"
+    },
+    {
+      "ID": 13,
+      "SubType": "sub_6",
+      "SubString": "基本介绍",
+      "SubRes": "UI/Pics/xd-xs-lxxs-jbjs0|UI/Pics/xd-xs-lxxs-jbjs1",
+      "TitleRes": "例行巡视",
+      "ContentData": "txt:1"
+    },
+    {
+      "ID": 14,
+      "SubType": "sub_6",
+      "SubString": "基本要求",
+      "SubRes": "UI/Pics/xd-xs-lxxs-jbyq0|UI/Pics/xd-xs-lxxs-jbyq1",
+      "TitleRes": "例行巡视",
+      "ContentData": "txt:2"
+    }
+  ]
+}
