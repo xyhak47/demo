@@ -132,7 +132,7 @@ namespace XD.TheManager
             public GameObject taskBg1; //巡视任务列表的背景
             public GameObject taskBg2; //倒闸任务列表的背景
             public GameObject _taskList; //任务列表父物体
-            internal Task task = new Task();
+            public Task task = new Task();
             public GameObject ElecImage; //接线图
 
             internal void InitStart()

@@ -1,19 +1,9 @@
 fileFormatVersion: 2
 guid: 426ece71236c3c54ea3dd3627fa10e25
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-gjs_04
-    second: {fileID: 2100000, guid: 55e2c9a08283a3c46b938f8e3d9a43db, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-gjs_04_glass
-    second: {fileID: 2100000, guid: 85832a16d6039ed4293233a51535334f, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -106,6 +96,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

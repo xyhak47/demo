@@ -1,19 +1,9 @@
 fileFormatVersion: 2
 guid: 0577df78503635842a14e9956fdd4785
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-gjs_01
-    second: {fileID: 2100000, guid: 954cc6e65b7bb804e99b47da0180b5c3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-gjs_bl
-    second: {fileID: 2100000, guid: b64e0a3992b6bd84db7a3b6865b6f04d, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -106,6 +96,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

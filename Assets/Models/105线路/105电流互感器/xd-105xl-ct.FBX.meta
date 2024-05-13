@@ -1,52 +1,9 @@
 fileFormatVersion: 2
 guid: e827b2e8234738e4e89636ddde56c95c
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      74: 1827226128182048838
-    second: Take 001
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 01 - Default
-    second: {fileID: 2100000, guid: 5d7554f40e7994047be64402a5a28b44, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-105xl-ct_01
-    second: {fileID: 2100000, guid: 74df0ee5912bdae44a2b45635e052605, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-105xl-ct_02
-    second: {fileID: 2100000, guid: 5148042cd37172a4da8946b2fd19dfbe, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #25
-    second: {fileID: 2100000, guid: 8a0157042c058b04997f3f83c41a05cc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #26
-    second: {fileID: 2100000, guid: 5148042cd37172a4da8946b2fd19dfbe, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #28
-    second: {fileID: 2100000, guid: a6f757cb173ace549899884ecedb8543, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: blinn1
-    second: {fileID: 2100000, guid: f86c3d5fbd0c1f9488fa4066ca2503bb, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: blinn2
-    second: {fileID: 2100000, guid: 544fc5dcff806894c85d32306746eb65, type: 2}
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -116,7 +73,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
@@ -139,6 +96,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

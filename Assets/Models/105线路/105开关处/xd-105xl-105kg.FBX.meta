@@ -1,22 +1,9 @@
 fileFormatVersion: 2
 guid: 6a66d975a0f9ebb4eb08670e53644dd9
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      74: 1827226128182048838
-    second: Take 001
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-105xl-105kg_01
-    second: {fileID: 2100000, guid: 42b92dee7b724184e9d233016bdb3b14, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-105xl-105kg_02
-    second: {fileID: 2100000, guid: 8a1de731b13543e4682ed2b921151ad2, type: 2}
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -109,6 +96,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

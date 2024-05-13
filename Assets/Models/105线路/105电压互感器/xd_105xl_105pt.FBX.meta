@@ -1,39 +1,9 @@
 fileFormatVersion: 2
 guid: 370ccf827d145e141bb4825313396bdf
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: CJ-Dianyahuganqi
-    second: {fileID: 2100000, guid: 9866c67265d27fe4fb0461bd2fe674de, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: CJ-Dianyahuganqi_tietu1
-    second: {fileID: 2100000, guid: a23790cd150ff124aa6117d181073fde, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: CJ-Dianyahuganqi_tietu2
-    second: {fileID: 2100000, guid: bb8a470e8f1f451448a47774492e3c07, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: CJ-Dianyahuganqi_tietu3
-    second: {fileID: 2100000, guid: af6a01b4ae91c8f46a3cf7e52f10c29e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-105xl-105pt-jgx
-    second: {fileID: 2100000, guid: 1c32178f6b93a4942a516b165397fa50, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_xd-105xl-pt_01
-    second: {fileID: 2100000, guid: 9866c67265d27fe4fb0461bd2fe674de, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -126,6 +96,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
